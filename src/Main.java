@@ -12,7 +12,7 @@ public class Main {
         getallen[3] = 423354;
         getallen[4] = 67543;
 
-    int[] lijstjegetallen = { 13,543,5675,567};
+    int[] lijstjegetallen = { 13,543,5675,567 };
 
         System.out.println(Arrays.toString(lijstjegetallen));
 
